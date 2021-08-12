@@ -1,0 +1,1783 @@
+<resources>
+
+    "navigation_drawer_open"
+    "Open navigation drawer",
+
+    "navigation_drawer_close"
+    "Close navigation drawer",
+
+    "camera_permission_generic_msg"
+    "Please allow the camera permission to proceed further.",
+
+    "camera_permission_denied"
+    "Since you denied permission for camera and checked Never ask again. Please go to settings and enable the permission for Camera.",
+
+    "location_not_enabled"
+    "Location not enabled",
+
+    "image_permission_text"
+    "Please allow the camera and storage permissions to proceed further.",
+
+    "storage_permission_text"
+    "Please allow the storage permission to proceed further.",
+
+    "modify_button"
+    "Modify",
+
+    "open_settings_button"
+    "OPEN SETTINGS",
+
+    "email_asterisk"
+    "Email*",
+
+    "forgot_password_link"
+    "Forgot Password?",
+
+    "not_authorized"
+    "You are not authorized to use this application",
+
+    "login_screen_verify_text"
+    "Are you sure you want to go back to Login screen?",
+
+    "tenant_not_found"
+    "Tenant account is not found.",
+
+    "invalid_password_error_message"
+    "Password is invalid",
+
+    "session_expired"
+    "Session expired, please login to continue.",
+
+    "first_name_asterisk"
+    "First Name*",
+
+    "last_name_asterisk"
+    "Last Name*",
+
+    "password_asterisk"
+    "Password*",
+
+    "one_num_or_special_char"
+    "1 Number or special character",
+
+    "enable_touch_id"
+    "Enable Touch ID for Login",
+
+    "term_cond_txt"
+    "Please agree to the Terms &amp; Conditions!>",
+
+    "email_exists_msg"
+    "Member with the specified email already exists",
+
+    "email_unknown_domain"
+    "Seems like you have mistype the email id. Would you like to modify the %s or continue registration with same email id.",
+
+    "date_of_birth_asterisk"
+    "Date of Birth*",
+
+    "sex_asterisk"
+    "Sex*",
+
+    "sex_at_birth_asterisk"
+    "Sex at Birth*",
+
+    "zip_code_asterisk"
+    "Zip Code*",
+
+    "zip_code_of_residence"
+    "Zip Code of Residence*",
+
+    "phone_number_asterisk"
+    "Phone Number*",
+
+    "hi"
+    "Hi",
+
+    "welcome_to"
+    "
+    Welcome to&#160;",
+
+    "gender_at_birth"
+    "Gender at Birth",
+
+    "passcode_set"
+    "Passcode has been set successfully.",
+
+    "incorrect_passcode"
+    "Incorrect passcode. Try again.",
+
+    "passcode_does_not_match"
+    "Passcode doesn't match.
+    Please try again.",
+
+    "lab_report"
+    "Lab Report",
+
+    "pickup_cancelation_success"
+    "Pickup has been canceled successfully",
+
+    "invalid_qr_code"
+    "Invalid QR code",
+
+    "confirm_before_cancel_process"
+    "Are you sure you want to cancel this process?",
+
+    "err_select_atleast_one_answer"
+    "You must select at least 1 answer.",
+
+    "choose_a_time_slot"
+    "Choose a time slot to continue.",
+
+    "am"
+    "AM",
+
+    "pm"
+    "PM",
+
+    "appointment_confirm"
+    "Your appointment is confirmed",
+
+    "reschedule_failed"
+    "Reschedule Failed.",
+
+    "apply"
+    "APPLY",
+
+    "add_phone_number"
+    "Add Phone Number",
+
+    "remove_coupon"
+    "REMOVE",
+
+    "applied_successfully"
+    "APPLIED SUCCESSFULLY",
+
+    "requesting_lab_report"
+    "Requesting Lab Report",
+
+    "add_appointment_to_calendar"
+    "Do you want to add your Appointment in your calendar?",
+
+    "appointment_declined"
+    "Appointment Declined",
+
+    "test_kit_order_placed"
+    "Your Test Kit order has been successfully placed.",
+
+    "appointment_confirmed"
+    "Your Appointment
+    is Confirmed!",
+
+    "add_to_calender_event_text"
+    "Do you want to add your Appointment in your calendar?",
+
+    "same_as_shipping_address"
+    "Same as shipping address",
+
+    "street_address_asterisk"
+    "Street Address*",
+
+    "city_asterisk"
+    "City*",
+
+    "state_asterisk"
+    "State*",
+
+    "country_asterisk"
+    "Country*",
+
+    "scroll_to_bottom"
+    "Please scroll to bottom to proceed.",
+
+    "search_by_zip"
+    "Search by zip code",
+
+    "agree_to_the_guinelines"
+    "Please agree to the guidelines!",
+
+    "scan_cassete_image_uploaded_we_ll_notify_about_results"
+    "Image Upload! We will notify when results are ready.",
+
+    "capture"
+    "Capture",
+
+    "click_test_cassete_image_again"
+    "Please click Test cassette image again!",
+
+    "scan_button"
+    "SCAN",
+
+    "initiate_scan_when_correctly_positioned"
+    "…Initiate scan when correctly positioned…",
+
+    "text_igm"
+    "IgM",
+
+    "text_igg"
+    "IgG",
+
+    "scan_cassete_use_this_image"
+    "USE THIS IMAGE",
+
+    "image_quality_not_good"
+    "Image quality is not good enough!",
+
+    "drop_off_confirm_message"
+    "FedEx drop off confirmation",
+
+    "drop_off_request_failed"
+    "Drop off request failed",
+
+    "pick_up_request_failed"
+    "Pickup request failed",
+
+    "slots_not_available"
+    "Slots not available. Please choose any other day",
+
+    "pick_up_time_location"
+    "Pick up Time and Location",
+
+    "time_slot_start_from"
+    "Time slot start from&#160;",
+
+    "import_from_google_fit"
+    "Import from GoogleFit",
+
+    "connect_using_apple_id"
+    "Connect using Google ID",
+
+    "cant_find_patient_portal_message"
+    "No Provider Available!",
+
+    "id_verification"
+    "ID Verification",
+
+    "id_verification_doc_type"
+    "Select type of government issued document you wish to scan.",
+
+    "change"
+    "(change)",
+
+    "why_is_this_necessary"
+    "Why is this necessary?",
+
+    "scan_document"
+    "Scan Document",
+
+    "txt_capture_doc"
+    "Capture %s",
+
+    "txt_remembered_devices"
+    "Remembered Devices",
+
+    "header_telehealth_services"
+    "Telehealth Services",
+
+    "err_network_not_available"
+    "Network is not available. Please try again.",
+
+    "err_unable_to_load_webPage"
+    "Unable to load content.",
+
+    "coming_soon"
+    "Coming Soon!",
+
+    "dialog_msg_save_emergency_contact"
+    "Are you sure you want to save on server?",
+
+    "success_emergency_contact_saved"
+    "Emergency Contact has been saved successfully.",
+
+    "txt_review_membership_guideline"
+    "Please review membership guidelines and terms of service before continuing.",
+
+    "txt_personal_health_info"
+    "Personal Health Info",
+
+    "txt_licensed_healthcare_provider"
+    "Licensed Healthcare Provider",
+
+    "txt_medical_record_authorization"
+    "Medical Record Authorization",
+
+    "txt_status_never_shared"
+    "Your Status is Never Shared",
+
+    "txt_insurance_reimbursements"
+    "Insurance Reimbursements",
+
+    "txt_medical_treatment_referrals"
+    "Medical Treatment Referrals",
+
+    "txt_use_at_own_risk"
+    "Use at Your Own Risk",
+
+    "sexual_health_exam"
+    "Sexual Health Exam",
+
+    "insurance_provider"
+    "Find Insurance Provider",
+
+    "insurance_id"
+    "Insurance ID*",
+
+    "add_insurance"
+    "ADD INSURANCE",
+
+    "type_insurance_name"
+    "Type insurance name",
+
+    "txt_anything_is_possible"
+    "Anything is possible",
+
+    "txt_when_you_are_safe"
+    "when you're SAFE.",
+
+    "forgot_pwd_label"
+    "Please enter the phone number
+    you used to register with.",
+
+    "header_disclosures"
+    "Disclosures",
+
+    "header_diagnostic_testing"
+    "Diagnostic Testing",
+
+    "order_cancelation"
+    "Cancel order?",
+
+    "import_cancelation"
+    "Cancel import?",
+
+    "order_cancelation_msg"
+    "We just want to make sure you don’t cancel an order by mistake. If you wish to proceed with cancelation just tap cancel.",
+
+    "import_cancelation_msg"
+    "We just want to make sure you don’t cancel an import by mistake. If you wish to proceed with cancelation just tap cancel.",
+
+    "txt_my_orders"
+    "My Orders",
+
+    "txt_my_physicians"
+    "My Physicians",
+
+    "txt_import_results_label"
+    "What information do you have about your last STD test?",
+
+    "txt_clinic"
+    "Clinic Name",
+
+    "txt_lab_report"
+    "Lab Report",
+
+    "header_credit_card"
+    "Credit Card",
+
+    "txt_type_msg"
+    "Please type your message",
+
+    "sign_up_info"
+    "8 characters Minimum, including at least one.
+    Uppercase Letter
+    Lowercase Letter
+    Special Character
+    Alphanumeric character",
+
+    "txt_enter_verification_code"
+    "Please enter the 6 digit code sent to
+    %s",
+
+    "txt_terms_and_conditions"
+    "Terms &amp;
+    Conditions",
+
+    "txt_important"
+    "IMPORTANT",
+
+    "touch_face_text"
+    "Use Fingerprint
+    for secure identification",
+
+    "abc"
+    "ABC",
+
+    "def"
+    "DEF",
+
+    "ghi"
+    "GHI",
+
+    "jkl"
+    "JKL",
+
+    "mno"
+    "MNO",
+
+    "pqrs"
+    "PQRS",
+
+    "tuv"
+    "TUV",
+
+    "WXYZ"
+    "WXYZ",
+
+    "txt_passcode_label"
+    "Set passcode for
+    secure identification",
+
+    "launcher_text"
+    "You can now import your STD test results for free, or schedule testing at a lab near you (we take insurance too!)",
+
+    "str_little_morr_info"
+    "We need just a
+    little more info.",
+
+    "txt_signup_label"
+    "Let's get you signed
+    up with an account.",
+
+    "dont_cancel"
+    "DON'T CANCEL",
+
+    "add_physician"
+    "ADD PHYSICIAN",
+
+    "txt_physician_name"
+    "Physician Name",
+
+    "txt_warning"
+    "WARNING",
+
+    "txt_satus_warning_msg"
+    "Status is only accurate as of time of testing. Always use condoms and common sense",
+
+    "txt_import_results_camel_case"
+    "Import Results",
+
+    "txt_dr_recommend_tests_title"
+    "%s recommends the SAFE Sexual Health Panel",
+
+    "make_primary_physician"
+    "MAKE PRIMARY",
+
+    "password_invalid_text"
+    "Please enter password.",
+
+    "first_name_length_text"
+    "Please enter at least 2 characters in your first name.",
+
+    "last_name_blank_text"
+    "Last Name can not be blank.",
+
+    "first_name_blank_text"
+    "First Name can not be blank.",
+
+    "zip_invalid_text"
+    "Please enter a valid zipcode.",
+
+    "sex_invalid_text"
+    "Please enter your sex.",
+
+    "race_invalid_text"
+    "Please enter your race.",
+
+    "ethnicity_invalid_text"
+    "Please enter your ethnicity.",
+
+    "birthday_invalid_text"
+    "Please enter your birthday.",
+
+    "unverfied_email_text"
+    "Please verify your account in order to use our app! Please check your email and follow the instructions to activate your account.",
+
+    "no_orders_found"
+    "You currently do not have any Orders",
+
+    "no_imports_found"
+    "You currently do not have any Import Request",
+
+    "txt_select_as_many_that_apply"
+    "Select as many that apply",
+
+    "no_recommendation_question_title"
+    "Based on the info you provided, it is not necessary for you to be tested for STDs at the time.",
+
+    "header_complete_profile_first"
+    "Please complete filling out your profile",
+
+    "txt_state_where_insurance_located"
+    "What state is your insurance located?",
+
+    "header_recommended_panel"
+    "Recommended Panel",
+
+    "txt_insurance_accepted"
+    "Insurance
+    Accepted",
+
+    "txt_insurance_co_pay"
+    "Insurance Co-pay",
+
+    "unlock_touch"
+    "Unlock with Fingerprint Sensor",
+
+    "txt_touch_unlock"
+    "Use your fingerprint sensor to unlock this app. Please apply your saved touch impression on the device now.
+    ",
+
+    "default_notification_channel_id"
+    "safeandroidnotification",
+
+    "confirm_account_delete"
+    "Are you sure you want to delete your account?",
+
+    "confirm_account_switch"
+    "Are you sure you want to switch account?",
+
+    "err_no_test_selected"
+    "Please select at least one option.",
+
+    "set_passcode_text"
+    "Would you like to use Passcode for Faster Login?",
+
+    "txt_have_coupon"
+    "I HAVE A COUPON",
+
+    "header_discount_coupon"
+    "Discount Coupon",
+
+    "txt_enter_coupon_code"
+    "Enter coupon code",
+
+    "txt_apply_code"
+    "APPLY CODE",
+
+    "err_enter_coupon_code"
+    "Please enter coupon code.",
+
+    "txt_import_exist_desc"
+    "You already have a request with this physician, please check the status of your request.",
+
+    "txt_lets_do_it"
+    "LET'S DO IT",
+
+    "share_label"
+    "Hey check this out!
+
+    The new SAFE APP lets you import/show your verified STD status on your phone and check your partners - also can get tested for just $99 or have insurance pay for it ;)
+
+    I'm SAFE. Are you?
+
+    Download from Play Store : %s",
+
+    "txt_state_physician_located"
+    "What state is your physician located?",
+
+    "txt_remove_physician"
+    "REMOVE PHYSICIAN",
+
+    "txt_add_physician"
+    "ADD PHYSICIAN",
+
+    "primary"
+    "PRIMARY",
+
+    "txt_credit_card_added"
+    "New Credit
+    Card Added",
+
+    "txt_fax"
+    "Fax",
+
+    "err_street"
+    "Please enter street address.",
+
+    "err_city"
+    "Please enter city.",
+
+    "err_state"
+    "Please enter state.",
+
+    "err_country"
+    "Please enter country.",
+
+    "notification_email_text"
+    "Email Notifications",
+
+    "app_messages_text"
+    "App Messages",
+
+    "credit_card_title"
+    "Credit Card Number*",
+
+    "credit_card_name"
+    "Name On Card*",
+
+    "first_name_caps"
+    "FIRST NAME*",
+
+    "last_name_caps"
+    "LAST NAME*",
+
+    "email_caps"
+    "EMAIL*",
+
+    "password_caps"
+    "PASSWORD*",
+
+    "sex_caps"
+    "SEX*",
+
+    "zipcode_caps"
+    "ZIP CODE*",
+
+    "password_format"
+    "Must be at least 8 characters, including one uppercase and lowercase letter and one number.",
+
+    "email_error"
+    "EMAIL ALREADY IN USE",
+
+    "email_security_text"
+    "No hard feelings if you need to change what you gave us earlier",
+
+    "error_phone"
+    "Invalid phone number or already in use.",
+
+    "profile_image_text"
+    "Take a photo for your profile screen.
+    It will not be displayed anywhere by here.",
+
+    "onboard_detail_text"
+    "You can now import your STD test results for free, or schedule testing at a lab near you for just $99 or use your insurance.",
+
+    "actions_text"
+    "ACTIONS",
+
+    "terms_and_condition"
+    "Terms &amp; Conditions",
+
+    "home_ways_of"
+    "6 WAYS OF BREAKING THE
+    STIGMA OF STDs",
+
+    "share_text"
+    "Invitie your friends and get free
+    testing for 6 months.",
+
+    "search_physician"
+    "Physician, Clinic or Lab ",
+
+    "manually_add_physician"
+    "Manually Add Physician",
+
+    "state_caps_astric"
+    "STATE*",
+
+    "add_physician_info_text"
+    "Fill in whatever info you know
+    about your provider.",
+
+    "current_location"
+    "Current Location",
+
+    "my_location"
+    "USE MY LOCATION",
+
+    "current_location_info"
+    "Use my current location",
+
+    "my_location_info"
+    "Tap here to select current location",
+
+    "ap_suit_optional"
+    "Apt/Ste (Optional)",
+
+    "add_your_physician"
+    "Add Your Provider",
+
+    "txt_steps_count"
+    "Step %d of %d",
+
+    "doc_scan_instruction"
+    "Place your document within the frame until all 4 edges are aligned and it is captured automatically",
+
+    "jumio_status_update_success_message"
+    "Document uploaded successfully. We will update your profile once it is verified by admin.",
+
+    "select_country"
+    "Select Country",
+
+    "dialog_title_update_available"
+    "Update Available",
+
+    "hint_enter_billierrorng_address"
+    "Enter Your Billing Address",
+
+    "wait_for_jumio_verification"
+    "Your Id verification is still in review. Please be patience till verification process.",
+
+    "agree_terms"
+    "I agree to the terms &amp; conditions",
+
+    "terms_conditions_get_tested"
+    "Please read the following terms before placing this order. By using the HealthCheck App, you agree to be bound by the Terms of Service, the Privacy Policy, and Notice of Privacy Practices. If you choose to import any of your diagnostic test records, or if you choose to get tested through the HealthCheck App, or both, you further agree to be bound by the additional terms that will be presented to you when you choose those services, including the Informed Consent for Telehealth Services, the Consent to Release Protected Health Information, the Service Agreement and Informed Consent, and the Informed Consent to Perform HIV Testing, as applicable.",
+
+    "txt_desc_why_necessary"
+    "HIPAA requires that healthcare providers have a record of the sex assigned at birth. We don't make the rules, just have to follow them.",
+
+    "facebook_url"
+    "https://www.facebook.com/thesafeapp",
+
+    "twitter_url"
+    "https://twitter.com/thesafeapp",
+
+    "instagram_url"
+    "https://www.instagram.com/thesafeapp/",
+
+    "linkedin_url"
+    "https://in.linkedin.com/company/safegroup",
+
+    "state_title_get_tested"
+    "In what state would you like to get tested?",
+
+    "get_tested_now_caps"
+    "GET TESTED NOW",
+
+    "hippa_bottom_disclaimer"
+    "This is confidential physician consultation protected by HIPAA privacy regulations",
+
+    "header_privacy_protection"
+    "Privacy Protection",
+
+    "hsv2_text"
+    "While HSV2 (genital herpes) is a common STD, the CDC does not recommend testing people without symptoms due to cases of false positive results which could cause emotional distress. You have the option to add this test at no additional charge below.",
+
+    "fill_out_provider_text"
+    "Tap here to add your provider",
+
+    "import_already_exist"
+    "We have already requested your records from this physician.",
+
+    "order_already_exist"
+    "Oops! You already have an appointment scheduled",
+
+    "cant_update_info"
+    "Please contact member support if you wish to change your last name, age or sex.",
+
+    "my_insurance_provider"
+    "My Insurance Provider",
+
+    "address_roadblock"
+    "For your security, we need your address to place an appointment.",
+
+    "enter_your_address"
+    "Enter Your Address",
+
+    "tap_to_add_card"
+    "Tap below to add a
+    payment method",
+
+    "discount"
+    "Discount",
+
+    "txt_no_msg_found"
+    "There are no message to display at this time.",
+
+    "reschedule_testing"
+    "GET RE-TESTED",
+
+    "cancel_order"
+    "CANCEL ORDER",
+
+    "txt_birthday_mandatory"
+    "Birthday*",
+
+    "not_policy_error_msg"
+    "Please enter your first name, last name, phone number and birth date",
+
+    "text_notifications"
+    "Text Notifications",
+
+    "error_phone_msg"
+    "Please enter a valid phone number",
+
+    "image_permission_denied_text"
+    "Since you denied permission for camera/storage and checked Never ask again. Please go to settings and enable the permission for Camera.",
+
+    "search_country"
+    "Search Country",
+
+    "diagnostic_testing_info"
+    "DIAGNOSTIC TEST INFO",
+
+    "test_date"
+    "TEST DATE",
+
+    "diagnosis"
+    "DIAGNOSIS",
+
+    "burning_discomfort_text"
+    "Burning or discomfort with urination could also be associated with urinary tract infection. The test we offer are used to screen for STD’s only if you may need to see a local doctor for additional testing.",
+
+    "pelvic_pain_text"
+    "Please see a medical professional or visit an emergency room right away.",
+
+    "import_txt_physician_located_state"
+    "Where were you last tested?",
+
+    "txt_health_services"
+    "Health Services",
+
+    "no_changes_made"
+    "You have not made any changes",
+
+    "accepts_appointments"
+    "Accepts Appointment",
+
+    "add_billing_address"
+    "Please add Billing Address",
+
+    "search_contact_hint"
+    "Search Contacts",
+
+    "search_state_hint"
+    "Search State",
+
+    "my_contacts"
+    "My Contacts",
+
+    "no_contact_found"
+    "No contact found",
+
+    "no_state_found"
+    "No State Found",
+
+    "share"
+    "SHARE",
+
+    "location_error_message"
+    "Oops! Seems like your current location is other than US. Please select any US state.",
+
+    "shared_status"
+    "Shared Status",
+
+    "shared_your_std_status"
+    "Share Your
+    STD Status?",
+
+    "shared_status_description"
+    "You are about to share your STD
+    status with ",
+
+    "cancel_share"
+    "Cancel share",
+
+    "share_your_status"
+    "SHARE MY STATUS",
+
+    "share_status_test_info"
+    "To share your status, you first need to either import recent test results or get tested through SAFE for just $99 or insurance co-pay.",
+
+    "text_share_no_active_status"
+    "Oops! You have no active status to share!",
+
+    "share_status_success_text"
+    "Your status has been shared successfully",
+
+    "confirm_status_sharing_cancel"
+    "Are you sure you don't want to share your status?",
+
+    "sharing_status"
+    "Sharing status",
+
+    "txt_no_contact_found"
+    "No contact found!",
+
+    "txt_shared_status"
+    "Shared status",
+
+    "txt_reject_share"
+    "Reject Share",
+
+    "txt_tap_hold_share"
+    "TAP &amp; HOLD TO VIEW STATUS",
+
+    "reject_status_warning"
+    "Are you sure you want to reject the status?",
+
+    "status_not_found"
+    "Status could not be found",
+
+    "share_my_status"
+    "Share My Status",
+
+    "select_contact_to_share"
+    "Select contact to share your status",
+
+    "want_to_delete_conversation"
+    "Are you sure you want to delete this conversation?",
+
+    "hope_successfully_seen"
+    "Hope you have successfully viewed the status.",
+
+    "txt_shared_status_back"
+    "Share status back?",
+
+    "provide_permission"
+    "Please allow contact permission to get all contacts",
+
+    "shared_status_succesfully"
+    "Status shared
+    successfully",
+
+    "empty_email_phone_invalid_text"
+    "Please enter email or phone.",
+
+    "phone_invalid_text"
+    "Please enter a valid phone.",
+
+    "forgot_phone_email_not_registered"
+    "The %1s you entered is not registered. Please check the %2s and try again.",
+
+    "oops_try_again"
+    "Oops, try again",
+
+    "number"
+    "number",
+
+    "email_id"
+    "email id",
+
+    "msg_sent"
+    "Message Sent! We will be in touch shortly",
+
+    "txt_enter_verification_code1"
+    "Please enter the 6 digit code sent to ",
+
+    "phone_num_text"
+    "For your security, please enter your phone number so we can verify your phone number",
+
+    "current_status"
+    "CURRENT STATUS",
+
+    "add_phone"
+    "Please add Phone Number",
+
+    "verify_phone"
+    "Please verify Phone Number",
+
+    "heads_up"
+    "Heads up!",
+
+    "getTestedFor"
+    "GET TESTED FOR $%d",
+
+    "err_insurance_eligibility_failed_get_tested"
+    "Please either correct the policy info
+    you entered or use our cash pay
+    option for just $%d.",
+
+    "proceed_anyway"
+    "Proceed anyway",
+
+    "phone_text"
+    "Enter your phone number to verify your account",
+
+    "app_name_with_index"
+    "Lab report (%1$d/%2$d)",
+
+    "want_to_delete_cc"
+    "Are you sure you want to delete this card?",
+
+    "txt_new_meet_your_physician"
+    "This consultation questionnaire determine what is the best test panel for you.",
+
+    "share_status_test_info_new"
+    "You can now import your STD test results for free, or schedule testing at a lab near you for just $99 or use your insurance.",
+
+    "begin_consulation_caps"
+    "BEGIN CONSULTATION",
+
+    "tap_physician_provider"
+    "Tap below to add
+    your provider",
+
+    "tap_my_insurance_message"
+    "Tap below to use
+    your insurance",
+
+    "tap_order_history_message"
+    "You currently do not have any Lab Orders",
+
+    "tap_import_history_message"
+    "You currently do not have any Import Request",
+
+    "allow_gallery_from_settings"
+    "Please allow gallery access from settings.",
+
+    "fill_out_phisician_text"
+    "Fill out physician info form",
+
+    "provider_not_listed_text"
+    "Provider not listed?",
+
+    "tap_to_add_below_text"
+    "Just tap above to add them.",
+
+    "verify_account"
+    "Verify Account",
+
+    "description_info"
+    "Info",
+
+    "request_permission"
+    "This sample needs camera permission.",
+
+    "acuant_camera_error"
+    "This device does not support Camera2 API.",
+
+    "permission_camera_rationale"
+    "Access to the camera is needed for detection",
+
+    "no_camera_permission"
+    "This application cannot run because it does not have the camera permission.  The application will now exit.",
+
+    "low_storage_error"
+    "Face detector dependencies cannot be downloaded due to low device storage",
+
+    "classification_error"
+    "Could not classify the document",
+
+    "scan_back_side_id"
+    "Scan back side of document.",
+
+    "classification_error_image_preview"
+    "Image Preview",
+
+    "scan_health_card_text"
+    "Select how would you like
+    to add your Insurance info",
+
+    "acuant_verify_quality_text"
+    "Please verify quality,
+    and text is clear",
+
+    "insurance_provider_info_text"
+    "Insurance Provider*",
+
+    "front_image_text"
+    "Front",
+
+    "insurance_card_text"
+    "Insurance Card",
+
+    "upload_card_text"
+    "UPLOAD NEW CARD",
+
+    "scan_back_insurance_text"
+    "Ok great, now lets scan
+    the back of the card",
+
+    "confirm_insurance_info_txt"
+    "Confirm Insurance Info",
+
+    "insurance_provider_successfully_added"
+    "Insurance Provider
+    Successfully Added!",
+
+    "checkout_email_info"
+    "By confirming your email we will be able to notify you when your results have been received.",
+
+    "proceed_withiout_email_alerts"
+    "Proceed without email alerts",
+
+    "verify_phone_txt"
+    ""PHONE NUMBER"",
+
+    "verify_email_txt"
+    ""EMAIL"",
+
+    "no_result_txt"
+    "No result found",
+
+    "unable_to_generate_pdf"
+    "Unable to generate PDF. Please try to contact us.",
+
+    "fax_invalid_text"
+    "Please enter a valid fax",
+
+    "information_resource_txt"
+    "Information Resource",
+
+    "username_text"
+    "Username",
+
+    "immunization_review"
+    "Immunization Review",
+
+    "get_information"
+    "GET INFORMATION",
+
+    "consult_a_provider"
+    "CONSULT A PROVIDER",
+
+    "report_to_tent_text"
+    "Report to the tent in front of the building to get tested for COVID-19 before work tomorrow",
+
+    "userinputnumeric"
+    "UserInputNumeric",
+
+    "splash_info_hc_app"
+    "Health Status Verification",
+
+    "reset_password"
+    "Reset Password",
+
+    "enter_pwd_info"
+    "Please enter new password",
+
+    "download_vaccination_report"
+    "Download vaccination report",
+
+    "tap_test_history_message"
+    "You currently do not have any Lab Orders",
+
+    "text_profile"
+    "Profile",
+
+    "agree_txt"
+    "AGREE",
+
+    "txt_personal_details"
+    "Personal Details",
+
+    "atleast_one_spe_char"
+    "1 Special Character (!@#$%^&amp;*)",
+
+    "collect_sample_screen1_text"
+    "Use lancet for finger stick, then gently squeeze one droplet of blood into the hole as shown",
+
+    "collect_sample_screen2_text"
+    "Gently squeeze one droplet of blood into the hole as shown below",
+
+    "tfe_ic_camera_error"
+    "This device doesn't support Camera2 API.",
+
+    "tfe_ic_gpu_quant_error"
+    "GPU does not yet supported quantized models.",
+
+    "tfe_ic_model"
+    "Model:",
+
+    "calendar_apntment_reminder_text"
+    "Appointment Scheduled",
+
+    "std_panel_appointment"
+    "STD Panel lab test appointment",
+
+    "safe_test_txt"
+    "Safe Test",
+
+    "currency_txt"
+    "usd",
+
+    "payment_failed_txt"
+    "Payment Failed",
+
+    "order_failed_txt"
+    "Order Failed",
+
+    "record_requested"
+    "Record Requested",
+
+    "import_unsuccess_txt"
+    "Import
+    Unsuccessful",
+
+    "check_back_again_txt"
+    "at this time. Please check back again soon.",
+
+    "no_physician_available_txt"
+    "Unfortunately we have no physicians available in",
+
+    "alpha_txt"
+    "alpha",
+
+    "none_txt"
+    "none",
+
+    "multichoice_txt"
+    "MultichoiceQuestion",
+
+    "popupquestion_txt"
+    "PopupQuestion",
+
+    "onechoice_txt"
+    "OneChoiceQuestion",
+
+    "norecomendation_txt"
+    "NoRecomendation",
+
+    "doctor_rec_txt"
+    "DoctorRecomendation",
+
+    "replaced_txt"
+    "replaced",
+
+    "insurance_copay_txt"
+    "$99 or Insurance co-pay",
+
+    "choose_time_slot_txt"
+    "Please choose a time slot to continue.",
+
+    "physician_not_found_txt"
+    "Physician not found!",
+
+    "stage_api_txt"
+    "stage.api.ursafe.io/deeplink/import",
+
+    "old_password_cannot_set_txt"
+    "Old password cannot be set as new. Please choose a new password to proceed!",
+
+    "safe_verification_code_txt"
+    "Your Safe Verification Code is ",
+
+    "oops_try_again_txt"
+    "Oops, try again",
+
+    "pls_enter_new_pass_txt"
+    "Please enter your new password.
+    Associated E-Mail:
+    ",
+
+    "either_phone_not_reg_txt"
+    "Either Phone is not registered or Invalid, Please check the number and try again",
+
+    "invalid_ver_code_txt"
+    "Invalid verification code",
+
+    "verification_code_txt"
+    "Verification Code has been sent!",
+
+    "server_error_txt"
+    "Server Error",
+
+    "mem_does_not_exist_txt"
+    "Member does not exists",
+
+    "caps_resend_verification_email_txt"
+    "RESEND VERIFICATION EMAIL",
+
+    "email_sent_success_txt"
+    "Email sent successfully.",
+
+    "verify_em_txt"
+    "Verify Your Email",
+
+    "set_passcode_txt"
+    "Set Passcode",
+
+    "incorrect_pin_txt"
+    "Oops, you've entered incorrect pin 3 times. Please login to continue.",
+
+    "incorrect_passcode_txt"
+    "Incorrect passcode.
+    Try again.",
+
+    "verify_phonenum_txt"
+    "Verify Phone Number",
+
+    "cancel_failed_txt"
+    "Order cancel failed.",
+
+    "accout_created_txt"
+    "Your account has
+    been created!",
+
+    "cancel_order_text"
+    "Unable cancel the order, please try again!",
+
+    "unable_to_get_details_txt"
+    "Oops, unable to get your details due to network error, please login to continue.",
+
+    "safe_verifi_code_txt"
+    "Safe Verification Code has been sent successfully.",
+
+    "import_canceled_failed"
+    "Import cancel failed.",
+
+    "my_order_resch_text"
+    ". Please reschedule it or cancel it to place a new one.",
+
+    "prov_add_successfully_txt"
+    "Provider added successfully.",
+
+    "address_not_support_txt"
+    "This address is not supported by Safe. Please select an address from US.",
+
+    "add_card_txt"
+    "Please enter card number.",
+
+    "already_added_card_txt"
+    "Seems, you have already added this card.",
+
+    "expiry_date_txt"
+    "Please enter card expiry date!",
+
+    "cvv_text"
+    "Please enter cvc.",
+
+    "card_holder_name"
+    "Please enter card holder name.",
+
+    "invalid_detail_text"
+    "Invalid card details!",
+
+    "error_while_save_text"
+    "Error while saving credit card.",
+
+    "are_missing_txt"
+    "are missing in the address you have selected!",
+
+    "is_missing_txt"
+    "is missing in the address you have selected!",
+
+    "unable_to_fetch_txt"
+    "Unable to fetch your address details!",
+
+    "hippa_txt"
+    "SAFE is a HIPAA compliant system that securely stores PHI data using the same technology as hospitals.",
+
+    "primary_care_phy_txt"
+    "SAFE is bound by the same government regulations as your primary care physician.",
+
+    "verify_text"
+    "You are authorizing SAFE to request your diagnostic test records for the purpose of verifying your STD status.",
+
+    "std_status_disp_txt"
+    "Your STD status is displayed only on your screen to who you choose to show it and nowhere else.",
+
+    "health_plan_txt"
+    "Many health plans cover STD testing; however, there is no guarantee there will not be out of pocket charges.",
+
+    "third_party_provider_txt"
+    "SAFE does not provide medical treatment; however, we will make referrals to third party providers.",
+
+    "no_guaranty_txt"
+    "There is no guarantee someone has not contracted an STD since their last test, so always use protection.",
+
+    "tool_to_make_txt"
+    "SAFE is a tool to make risky behavior safer and not meant to replace responsible behavior.",
+
+    "united_state_supp_txt"
+    "United States supported only.",
+
+    "user_update_failed_txt"
+    "User update failed.",
+
+    "valid_phone_email_txt"
+    "Please enter correct phone number and a valid email.",
+
+    "valid_email_valid_zip"
+    "Please enter a valid email.",
+
+    "phone_and_zip_txt"
+    "Please enter correct phone number.",
+
+    "phone_email_zip_txt"
+    "Please enter correct phone number  and a valid email.",
+
+    "check_back_soon_txt"
+    "Please check back soon to search for your test results by clinic.",
+
+    "make_sure_txt"
+    "We just want to make sure you don't cancel an order by mistake. If you wish to proceed just tap Yes.",
+
+    "unable_cancel_txt"
+    "Unable cancel the order, please try again!",
+
+    "video_not_found_txt"
+    "Video data not found, please try again!",
+
+    "enter_msg_txt"
+    "Please enter a message!",
+
+    "confirm_email_txt"
+    "Confirm your email",
+
+    "email_veri_txt"
+    "Your email is already verified.",
+
+    "email_conf_txt"
+    "We have sent you an email confirmation link on your email address",
+
+    "enter_phone"
+    "Enter Phone Number",
+
+    "already_verify_txt"
+    "Your phone number is already verified.",
+
+    "verification_code_text"
+    "Enter verification code",
+
+    "six_digit_code_txt"
+    "Enter 6 digit verification code",
+
+    "send_code_txt"
+    "Verification code has been sent on your phone number.",
+
+    "email_code_sent_txt"
+    "Verification code has been sent on your email ID.",
+
+    "veri_code_sent_txt"
+    "Verification code has been sent successfully.",
+
+    "welcome_text_consumer"
+    "In the interest of safety we ask that you take this private virtual consult and get tested for COVID-19. Additional instructions will follow.",
+
+    "plz_add_shipping_address"
+    "Please add Sipping Address",
+
+    "checkout_imp_text"
+    "Please read the following terms before placing this order. By using the %s App, you agree to be bound by the terms of Service, the Privacy Policy, and Notice of Privacy Practices. If you choose to import any of your diagnostic test records, or if you choose to get tested through the %s App, or both, you further agree to be bound by the additional terms that will be presented when you choose those services, including the informed consent",
+
+    "wait_for_verification"
+    "Trouble verifying document!
+    Support team will get in touch with you. Please continue to complete import request.",
+
+    "text_document_verify"
+    "Document verified! Continue to complete import request.",
+
+    "txt_select_id_type_of_doc"
+    "Scan any type of government issued
+    document which includes Passport,
+    Driving licence, Identity Card and Visa.",
+
+    "scan_back_document_text"
+    "Ok great, now lets scan
+    the back of the document",
+
+    "text_cleared_for_work"
+    "Cleared for work",
+
+    "text_not_cleared_for_work"
+    "Not cleared for work",
+
+    "time_for_daily_self_assessment"
+    "Time for your daily self-assessment.",
+
+    "txt_important_information"
+    "Important Information",
+
+    "text_self_assessment_time"
+    "Time to receive daily  self-assessment reminder",
+
+    "text_self_assessment_days"
+    "Days to receive daily  self-assessment reminder",
+
+    "home_card_string_resource"
+    "Check out the latest COVID-19 Resource here",
+
+    "dob_invalid_text"
+    "Please enter your date of birthday.",
+
+    "call_time"
+    "%s:%s",
+
+    "incoming_call_is_calling"
+    "is calling",
+
+    "incoming_call_reject"
+    "Reject",
+
+    "secure_video_call"
+    "Secure video call...",
+
+    "secure_audio_call"
+    "Secure audio call...",
+
+    "how_was_your_experience"
+    "How was your experience with",
+
+    "thank_for_rating"
+    "Thank you for rating!",
+
+    "feedback_is_anonymously"
+    "Feedback is anonymously shared with providers",
+
+    "text_messages"
+    "Messages",
+
+    "password_does_not_match_txt"
+    "Password doesn't match. Please try again.",
+
+    "text_add_new_card"
+    "Add New Card",
+
+    "see_details"
+    "[CALLBACK]",
+
+    "call_back"
+    "Call back",
+
+    "no_secure_messages"
+    "No secure messages",
+
+    "no_secure_messages_body"
+    "There are no secure messages to display at this time.",
+
+    "i_message"
+    "Text Message",
+
+    "be_sure_you_have"
+    "BE SURE YOU HAVE",
+
+    "view_cdc_guidelines"
+    "View CDC guidelines at cdc.gov",
+
+    "message_vc_intro"
+    "The following clinical questionnaire is based on CDC guidelines and will help determine the best course of action with testing.",
+
+    "text_insurance_info"
+    "Select your insurance provider from the list below or use search above",
+
+    "pick_up_date_errro"
+    "Selected Pickup date is not available.",
+
+    "add_family_member"
+    "Add Family Member",
+
+    "what_results_mean"
+    "What your results mean",
+
+    "article_and_video"
+    "Article and video",
+
+    "title_positive"
+    "Positive Result",
+
+    "title_negative"
+    "Negative Result",
+
+    "title_equivocal"
+    "Invalid Result",
+
+    "title_positive_covid"
+    "Positive COVID-19 Result",
+
+    "title_negative_covid"
+    "Negative COVID-19 Result",
+
+    "title_equivocal_covid"
+    "Invalid COVID-19 Result",
+
+    "description_positive"
+    "A <b>POSITIVE</b> result is indicated by the presence of a <b>BLUE</b> line and a <b>PINK</b> line. Examples of positive results are presented above. Look closely, even a faint <b>PINK</b> line is considered positive.",
+
+    "description_negative"
+    "A <b>NEGATIVE</b> result is indicated by the presence of a <b>BLUE</b> line <b>AND NO PINK</b> line. Examples of negative results are presented above.",
+
+    "description_equivocal"
+    "An <b>INVALID</b> result is indicated if the <b>BLUE</b> line does not appear, even if a <b>PINK</b> line appears. Examples of invalid results are presented above. If the test is invalid, a new test should be performed with a new patient sample and a new <b>Strip</b>.",
+
+    "add_dependent"
+    "Add dependent",
+
+    "add_another"
+    "Add another",
+
+    "title_add_dependent"
+    "Add a Dependent",
+
+    "dependent"
+    "Dependent",
+
+    "title_no_dependents"
+    "No dependents",
+
+    "description_no_dependents"
+    "Add your first dependent using the Add Dependent button below.",
+
+    "title_caregiver"
+    "Caregiver &amp; Legal Guardian Consent",
+
+    "text_accept_caregiver"
+    "I certify that I am a caregiver or
+    legal guardian",
+
+    "save_changes"
+    "Save Changes",
+
+    "delete_dependent"
+    "Delete Dependent",
+
+    "text_dependent_added"
+    "Dependent Added!",
+
+    "text_switch_dependents"
+    "Swipe left and right on the home screen to switch between dependents.",
+
+    "text_lorem_ipsum"
+    "Lorem ipsum dolor sit amet",
+
+    "powered_by_safe"
+    "Powered by SAFE.HEALTH",
+
+    "assessment"
+    "Assessment",
+
+    "igg_assessment"
+    "IgG Assessment",
+
+    "igm_assessment"
+    "IgM Assessment",
+
+    "error_unknown"
+    "Unknown error",
+
+    "virtual_health_title"
+    "Virtual Consult Review",
+
+    "warning"
+    "Warning",
+
+    "are_you_sure_abandon_service_order"
+    "Are you sure you want to abandon this service order?",
+
+    "are_you_sure_clear_treatments"
+    "Are you sure you want to remove all selected treatment options?",
+
+    "remove"
+    "Remove",
+
+    "select_treatment_plan"
+    "Please select a treatment plan option to complete this service order",
+
+    "initials_dont_match"
+    "Please enter correct initials.",
+
+    "make_referral"
+    "Make Referral",
+
+    "order_diagnostics"
+    "Order Diagnostics",
+
+    "add_prescription"
+    "Add Prescription",
+
+    "category"
+    "Category",
+
+    "validation_error"
+    "Validation error. Please check input data.",
+
+    "no_items_to_show"
+    "No %s to show",
+
+    "demographic"
+    "Demographic",
+
+    "martial_status"
+    "Martial Status",
+
+    "race_asterisk"
+    "Race*",
+
+    "ethnicity_asterisk"
+    "Ethnicity*",
+
+    "legal_guardian"
+    "Legal Guardian",
+
+    "family_history"
+    "Family History",
+
+    "family_details_title"
+    "FamilyDetails",
+
+    "add_family_details_title"
+    "Add Family Member",
+
+    "form"
+    "Form",
+
+    "taken_by_patient"
+    "Taken By Patient",
+
+    "dosage_instructions"
+    "Dosage instructions",
+
+    "intake_route"
+    "Intake Route",
+
+    "dose"
+    "Dose",
+
+    "dosage_status"
+    "Dosage Status",
+
+    "dose_unit"
+    "Dosage Unit",
+
+    "last_dosage"
+    "Last Dosage",
+
+    "dose_strength"
+    "Dose Strength",
+
+    "frequency"
+    "Frequency",
+
+    "start_date"
+    "Start Date",
+
+    "end_date"
+    "End Date",
+
+    "medication_name"
+    "Medication Name",
+
+    "add_medication_title"
+    "Add Medication",
+
+    "procedures_title"
+    "Procedures",
+
+    "procedure_name"
+    "Procedure Name",
+
+    "add_procedures_title"
+    "Add Procedure",
+
+    "illict_drug_user"
+    "Illict Drug User",
+
+    "occupational_status"
+    "Occupational Status",
+
+    "relationship_status"
+    "Relationship Status",
+
+    "add_vaccinations_title"
+    "Add Vaccination",
+
+    "pules"
+    "Pules",
+
+    "o2_saturaton"
+    "O2 Saturaton",
+
+    "mandatory_email_error_message"
+    "Email address is mandatory",
+
+    "re_enter_new_passcode"
+    "Re-Enter new passcode",
+
+    "cant_verify_code"
+    "Can't verify the code",
+
+    "terms_and_conditions_small"
+    "terms &amp; conditions",
+
+</resources>
